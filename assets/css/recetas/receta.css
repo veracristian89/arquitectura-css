@@ -1,9 +1,9 @@
 .receta {
     background: #fdfdfd;
+    box-shadow: #555555 0 0 3px;
     display: flex;
     flex-direction: column;
     margin-bottom: 5rem;
     margin-right: 5rem;
     width: calc(25% - 5rem);
-    box-shadow: #555555 0 0 3px;
 }
